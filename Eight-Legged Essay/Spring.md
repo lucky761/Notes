@@ -1,2 +1,2 @@
 1. Spring是什么
-   2. Spring特性
+   - Spring特性
