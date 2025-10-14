@@ -14,3 +14,11 @@
 3. BeanFactory和ApplicantContext的区别?
 4. 项目启动时Spring的IoC会做什么？
    - Spring的Bean实例化方式？
+5. 怎么理解Bean的？
+   - @Component 和 @Bean 有什么区别？
+6. Bean的生命周期
+   - Aware 类型的接口有什么作用？
+   - 如果配置了 init-method 和 destroy-method，Spring 会在什么时候调用其配置的方法？
+7. 为什么IDEA不推荐使用@Autowired注解注入Bean？
+   - @Autowired 和 @Resource 注解的区别？
+8. @Autowired的实现原理
